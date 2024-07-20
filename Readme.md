@@ -2,6 +2,8 @@ This is a python script to log gps data on android phone using termux.
 
 Requirements:
 
+python
+
 Termux
 
 Termux-API
